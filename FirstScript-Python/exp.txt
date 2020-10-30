@@ -1,0 +1,3 @@
+- El mismo proyecto que First-Script pero con
+las variables y keywords pasadas a Python para
+que se asemeje más a un proyecto real

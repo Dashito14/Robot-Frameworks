@@ -1,0 +1,5 @@
+- Aquí iría un archivo con los recursos utilizados
+donde se crearían nuevas keywords y cosas por el estilo
+
+- Este proyecto es muy básico y por eso está vacío, aunque 
+sí que creé la arquitectura del pryecto de manera correcta.
